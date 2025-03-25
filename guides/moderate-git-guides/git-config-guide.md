@@ -146,5 +146,6 @@ git config --global core.autocrlf true
 
 # For Mac/Linux
 git config --global core.autocrlf input
-By properly configuring Git, you'll ensure that your commits are correctly attributed and that your local repositories connect seamlessly with GitHub.
 ```
+
+By properly configuring Git, you'll ensure that your commits are correctly attributed and that your local repositories connect seamlessly with GitHub.
